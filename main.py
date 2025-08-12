@@ -19,3 +19,4 @@ if uploaded_file is not None:
 
 # Additional UI elements, if needed
 st.write("Upload an Areca nut image to classify it using the Keras model.")
+

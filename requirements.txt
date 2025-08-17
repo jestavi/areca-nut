@@ -1,7 +1,5 @@
 streamlit
 tensorflow
 keras
-pandas
+pillow
 numpy
-scikit-learn
-matplotlib
